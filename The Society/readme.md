@@ -13,7 +13,7 @@ Current Questions to ask:
 
 
 Phase 1: Select Dataset ->https://www.kaggle.com/sheenabatra/facebook-data 02/18/21
-
+----
 Phase 2: Work on cleaning data in alignment with question 02/23/21
  
  P1. (Create clean columns and remove null values)
@@ -23,14 +23,15 @@ Phase 2: Work on cleaning data in alignment with question 02/23/21
  P3. (Create statistical regression models if time)
 
 Phase 3: Create plotly and matplotlib models 02/25/21
-  
+----  
  P1.
   
  P2.
 
  P3
-Phase 4: Create Presentation outline and Review Visualizations (split 2:2) 03/02/21
 
+Phase 4: Create Presentation outline and Review Visualizations (split 2:2) 03/02/21
+----
  P1.
  
  P2.
@@ -38,3 +39,4 @@ Phase 4: Create Presentation outline and Review Visualizations (split 2:2) 03/02
  P3.
 
 Phase 5: Finalize presentation and Practice 03/04/21
+----
