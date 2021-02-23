@@ -20,6 +20,7 @@ Phase 1: Select Dataset ->https://data.world/danilolimar/facebook/workspace/file
 Phase 2: Work on cleaning data in alignment with question 02/23/21
 ----
  P1. (Create clean columns and remove null values)
+      DataCleaning -> Facebook Plotlib.ipynb (jupyter notebook clean null values removed)
  
  P2. (Create dataframes of needed columns and remove excess data)
   
