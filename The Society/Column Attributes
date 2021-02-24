@@ -1,3 +1,7 @@
+            This document states the break down of each column within the dataset and describes their purpose
+
+
+
 Page total likes - The total amount of likes a page has.
 Type - The type of media (Photo, Status, Link, Video)
 Category - (Undefined column( Omit ))
