@@ -7,11 +7,12 @@ Our Goal: We want to explore what statistic relates to the amount of likes a use
 
 Current Questions to ask:
 ----
-1. what age group gets the most likes? which gender gets the most likes?
-2. How does the tenure of your profile relate to how many likes you get?
-3. what age group has the most friends?
-4. what range of friend_count gets the most engagement 
-5. which age initiates the most friendships
+1. do paid posts get more likes ?
+2. does the time you post effect the amount of likes ?
+3. What type of post gets the most likes (broken down by the day)
+4. What type of post gets the most engagement
+5. what range of friend_count gets the most engagement 
+6. which age initiates the most friendships
 
 
 Phase 1: Select Dataset ->https://data.world/danilolimar/facebook/workspace/file?agentid=uci&datasetid=facebook-metrics&filename=dataset_Facebook.csv
@@ -20,6 +21,7 @@ Phase 1: Select Dataset ->https://data.world/danilolimar/facebook/workspace/file
 Phase 2: Work on cleaning data in alignment with question 02/23/21
 ----
  P1. (Create clean columns and remove null values)
+      DataCleaning -> Facebook Plotlib.ipynb (jupyter notebook clean null values removed)
  
  P2. (Create dataframes of needed columns and remove excess data)
   
