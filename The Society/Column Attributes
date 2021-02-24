@@ -1,0 +1,19 @@
+Page total likes - The total amount of likes a page has.
+Type - The type of media (Photo, Status, Link, Video)
+Category - (Undefined column( Omit ))
+Post Month - Month posted (1-January,2-February,3-March etc..)
+Post Weekday Day posted (1-Monday,2-Tuesday,3-Wednesday,4-Thursday,5-Friday,6-Saturday,7-Sunday)
+Post Hour - Hour posted (Military Time 1-12 AM) (13-23 PM (1-11))
+Paid - Was the post a paid post 
+Lifetime Post Total Reach - Lifetime amount of users who have seen the post
+Lifetime Post Total Impressions - Lifetime amount of users who have interactted with the post with a reaction
+Lifetime Engaged Users - Lifetime users who have posted  under the post
+Lifetime Post Consumers - Lifetime post were active on your page
+Lifetime Post Consumptions - Lifetime actions commit on your post
+Lifetime Post Impressions by people who have liked your Page - Lifetime interractions on your post with a reaction by your followers
+Lifetime Post reach by people who like your Page - How many people saw your post who like your page
+Lifetime People who have liked your Page and engaged with your post - How many people liked your post and engaged in your comments
+comment - Total amount of comments
+like - Total amount of likes
+share - Total amount of shares
+Total Interactions
