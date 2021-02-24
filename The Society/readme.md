@@ -9,9 +9,9 @@ Current Questions to ask:
 ----
 1. do paid posts get more likes ?
 2. does the time you post effect the amount of likes ?
-3. What type of post gets the most likes (broken down by the day)
-4. What type of post gets the most engagement
-5. what range of friend_count gets the most engagement 
+3. What type of post gets the most likes?(broken down by the day)
+4. Which day of the week gets the most engagement?
+5. Which hours of the day get the most engagement? (broken down into histogram with multiple legends by hour (24 plot points per day of the week)
 6. which age initiates the most friendships
 
 
