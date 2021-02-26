@@ -14,7 +14,7 @@ p_pd.head()<br>
 
                                   --In order to convert your data into columns use this formula
                                   
-  Copy & Paste this code into the likes_and_comments.csv to match you columns across code
+  Copy & Paste this code into the likes_and_comments.csv to match you columns across code <br>
         CommentTime,CommentTimeStamp,Comment,PostedBy,Action,Attachments,CommentGroup,CommentAttachments,AttachmentTimestamp,UploadIP,Title
         
   This will allow you to reuse the code
