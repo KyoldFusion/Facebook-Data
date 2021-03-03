@@ -1,4 +1,4 @@
-                      Dataset: We want to work with the facebook dataset
+                      Dataset: We want to work with the facebook dataset from each of our individual profiles
 
 Our Goal: We want to explore what statistic relates to the amount of likes, time a user has spent on the platform, and gender. We are trying to explore which of these areas is most likely going to influence whether and user will have increased traffic to their profile and postings. At the end of our research and after cleaning our dataset, we hope to prove whether or not time, age, or gender have an influence on your presense on facebook. 
 
@@ -14,7 +14,7 @@ Current Questions to ask:
 5. Which Gender rejects the most friend request?
 
 
-Phase 1: Download individual datasets from FB -> https://www.facebook.com/dyi/?referrer=yfi_settings
+Phase 1: Download individual datasets from FB -> https://www.facebook.com/dyi/?referrer=yfi_settings -> Likes_comments / Friends / Reactions
 02/18/21
 ----
 Phase 2: Work on cleaning data in alignment with question 02/23/21
