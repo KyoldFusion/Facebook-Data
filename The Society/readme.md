@@ -1,21 +1,20 @@
-                      Dataset: We want to work with the facebook dataset
+                      Dataset: We want to work with the facebook dataset from each of our individual profiles
 
-Our Goal: We want to explore what statistic relates to the amount of likes a user is given based off of their demographics primarily dealing with age/friend_count/friendships and gender. We are trying to explore which of these areas is most likely going to influence whether and user will have increased traffic to their profile and postings. At the end of our research after cleaning our dataset, we hope to prove whether or not age and friend_count and gender have an influence on your presense on facebook. 
+Our Goal: We want to explore what statistic relates to the amount of likes, time a user has spent on the platform, and gender. We are trying to explore which of these areas is most likely going to influence whether and user will have increased traffic to their profile and postings. At the end of our research and after cleaning our dataset, we hope to prove whether or not time, age, or gender have an influence on your presense on facebook. 
 
 **This information is solely based on Facebook's social media platform and not others such as Twitter,Instagram,TikTok,etc..
 
 
 Current Questions to ask:
 ----
-1. do paid posts get more likes ?
-2. does the time you post effect the amount of likes ?
-3. What type of post gets the most likes?(broken down by the day)
-4. Which day of the week gets the most engagement?
-5. Which hours of the day get the most engagement? (broken down into histogram with multiple legends by hour (24 plot points per day of the week)
-6. which age initiates the most friendships
+1. Which Generation Reacts more per hour?
+2. Does the time you post effect the amount of likes ?
+3. What type of post gets the most likes?
+4. Which Gender sends the most friend request?
+5. Which Gender rejects the most friend request?
 
 
-Phase 1: Select Dataset ->https://data.world/danilolimar/facebook/workspace/file?agentid=uci&datasetid=facebook-metrics&filename=dataset_Facebook.csv
+Phase 1: Download individual datasets from FB -> https://www.facebook.com/dyi/?referrer=yfi_settings -> Likes_comments / Friends / Reactions
 02/18/21
 ----
 Phase 2: Work on cleaning data in alignment with question 02/23/21
@@ -29,19 +28,19 @@ Phase 2: Work on cleaning data in alignment with question 02/23/21
 
 Phase 3: Create plotly and matplotlib models 02/25/21
 ----  
- P1.
+ P1. Create mini subplots to display cross column data between dataframes
   
- P2.
+ P2. Establish labels and colors on data on plots
 
- P3
+ P3 Transition plotly and matplotlib files to powerpoint presentation format (.jpg, .png)
 
 Phase 4: Create Presentation outline and Review Visualizations (split 2:2) 03/02/21
 ----
- P1.
+ P1. Create framework/color schemes for data to be put into slide
  
- P2.
+ P2. Update transitions and icons/pictures to ensure they are properly formatted
  
- P3.
+ P3. Proof read for errors of spelling and slide transition timings.
 
-Phase 5: Finalize presentation and Practice 03/04/21
+Phase 5: Finalize presentation and Practice 03/02/21
 ----
