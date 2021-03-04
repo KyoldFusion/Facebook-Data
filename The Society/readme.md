@@ -44,3 +44,20 @@ Phase 4: Create Presentation outline and Review Visualizations (split 2:2) 03/02
 
 Phase 5: Finalize presentation and Practice 03/02/21
 ----
+
+
+CONCLUSIONS
+1. Which Generation Reacts more per hour? 
+   The engagement of younger generations is higher according to the amount of reactions. Surprisingly the hours of engagement do not variate between generations. The hours of activity are very similar and behave almost identically. 
+
+2. Does the time you post effect the amount of likes?
+   After reviewing the graph of reacitons against time of the day, it is very clear that the time that you post directly affects the amount of reactions that you might get. With a higher engagement between 1 pm - 3 pm and 10 pm - 1 am. These time slots representing the highest reactions received.
+   
+3. What type of post gets the most likes?
+   After analysisng the scatter graph of posts vs reactions it was very clear that the 'Post' type were the ones getting the most reactions. This category corresponds to status updates of the user. Also, the time that these post were made was affecting directly on the amount of reactions it would get. We can see that the amount of reactions drops significantly when is not at the key hours (1 pm - 3 pm and 10 pm - 1 am).
+   
+4. Which Gender sends the most friend request?
+   Surprisingly the Female Group showed to be the one to have the most friend request sent. We were expecting the opposite before coming up to the result.
+   
+5. Which Gender rejects the most friend request?
+   The Female Group ended up being the one that rejects the most friend requests as well. With a very long difference compared to the Male Group. This could also be  caused because the possibility of receiving more friends requests compared to Male. That would be a factor to consider for future analysis on the subject
